@@ -1,0 +1,21 @@
+Progra
+Contenido
+Arquitecturas
+MVC
+Front end
+Rest Api - Service web
+Tipo C
+AA 50 20   ==>Proyecto
+	30 ==>Tareas, Actividades
+EF  ==> 40
+=========
+Front end
+==========
+angular
+rest Api
+Bootstrap
+Material Designer
+
+
+GIT
+git init
